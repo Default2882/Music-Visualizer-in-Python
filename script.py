@@ -12,6 +12,44 @@ import time
 #refer to the article mentioned below for more information.
 #https://dahvisualize.wordpress.com/2011/11/29/visualising-audio-in-the-time-and-frequency-domain/
 
+print('''
+    _______________________________
+   | \___===____________________()_\
+   | |                              |
+   | |   _________________________  |
+   | |  |                        |  |
+   | |  |                        |  |
+   | |  |                        |  |
+   | |  |                        |  |
+   | |  |                        |  |
+   | |  |                        |  |
+   | |  |                        |  |
+   | |  |                        |  |
+   | |  |                        |  |
+   | |  |                        |  |
+   | |  |________________________|  |
+   | |                              |
+   | |                              |
+   | |              @@@@            |
+   | |           @@@Menu@@@         |
+   | |          @@@@@@@@@@@@        |
+   | |         @<<@@@()@@@>>@       |
+   | |          @@@@@@@@@@@@        |
+   | |           @@@ ||>@@@         |
+   | |              @@@@            |
+   | |                              |
+   | |                              |
+   | |                              |
+   | |                              |
+    \|______________________________|
+
+------------------------------------------------
+Thank you for visiting https://asciiart.website/
+This ASCII pic can be found at
+https://asciiart.website/index.php?art=objects/audio%20equipment
+
+    ''')
+
 print(black("\n--------------------------------------------------------------------------"))
 print(magenta("Welcome to python music visualiser written by Soumya Saurav"))
 print(black("--------------------------------------------------------------------------\n"))
