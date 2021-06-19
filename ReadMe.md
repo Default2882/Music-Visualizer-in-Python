@@ -2,8 +2,8 @@
 
 ## Dependencies:
 
-Scipy
-PyGame
+- Scipy
+- PyGame
 
 ## Installing dependencies:
 ```python
