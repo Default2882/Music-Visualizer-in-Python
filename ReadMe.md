@@ -1,6 +1,17 @@
-# This is a music visualizer written using Scipy and PyGame.
+# Music visualizer
 
-Just run by typing -
-**python3 script.py** 
+## Dependencies:
 
-## This project was made on 11/07/2019
+Scipy
+PyGame
+
+## Installing dependencies:
+```python
+    pip3 install scipy pygame
+```
+
+## Running the scipt -
+```python
+    python3 script.py 
+```
+
